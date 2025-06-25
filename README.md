@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parougv&" alt="parougv" /></p>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/u/Shaving_Foam/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Shaving_Foam)](https://leetcode.com/u/Shaving_Foam/)
