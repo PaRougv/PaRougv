@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parougv&show_icons=true&locale=en" alt="parougv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parougv&" alt="parougv" /></p>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
